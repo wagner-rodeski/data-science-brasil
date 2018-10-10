@@ -37,6 +37,7 @@
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=microsoft-power-bi-para-data-science">⚫Curso Gratuito de Microsoft Power BI (Carga Horária: 54 Horas)</a></ol>
 <ol><a href="https://www.datascienceacademy.com.br/course?courseid=big-data-fundamentos">⚫Curso Gratuito de Fundamentos de Big Data (Carga Horária: 8 Horas)</a></ol></ul>
 <h4>🔴Udacity</h4>
+<ul><ol><a href="https://br.udacity.com/course/machine-learning-for-trading--ud501">⚫Machine Learning para TRADING</a></ol>
 <ul><ol><a href="https://br.udacity.com/course/how-to-use-git-and-github--ud775">⚫como usar  git e github por UDACITY</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-data-science--ud359">⚫Introdução à Ciência de Dados</a></ol>
 <ol><a href="https://br.udacity.com/course/intro-to-statistics--st101">⚫Introdução à Estatística</a></ol>
